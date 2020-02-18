@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="Python" value="C:/Users/Mañana/AppData/Local/Programs/Python/Python38-32" />
+    <macro name="Python_Commands" value="C:/Users/Mañana/AppData/Local/Programs/Python/Python38-32/Scripts" />
+  </component>
+</application>
